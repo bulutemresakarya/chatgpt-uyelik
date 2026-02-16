@@ -44,9 +44,6 @@ Proje, modern Python kütüphaneleri kullanılarak modüler bir yapıda gelişti
 
 ### 📸 Ekran Görüntüleri
 
-*(Gizlilik nedeniyle müşteri verileri sansürlenmiştir)*
-
-
 <img width="610" height="637" alt="screenshot_gui" src="https://github.com/user-attachments/assets/2068163c-fa3c-417f-a077-20b7bbb6af35" />
 
 ---
@@ -70,4 +67,5 @@ Due to client confidentiality and intellectual property rights, the source code 
 
 ---
 *Developed by @bulutemresakarya*
+
 
