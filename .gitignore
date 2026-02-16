@@ -1,0 +1,23 @@
+# Python kodlarını yoksay (Gizlilik için)
+*.py
+*.pyw
+
+# Derleme ve sanal ortam dosyaları
+__pycache__/
+build/
+dist/
+*.spec
+venv/
+env/
+
+# Veri ve Konfigürasyon dosyaları (Müşteri verisi sızmasın)
+*.txt
+*.json
+*.csv
+*.log
+
+# Sadece bu dosyaları yükle
+!requirements.txt
+!README.md
+!.gitignore
+!assets/
